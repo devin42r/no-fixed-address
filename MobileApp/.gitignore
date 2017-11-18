@@ -58,3 +58,10 @@ node_modules
 
 /coverage
 /third-party
+
+# Expo
+.expo/
+
+# Other Random Stuff
+*.stackdump
+.vscode
